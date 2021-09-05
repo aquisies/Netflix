@@ -17,7 +17,7 @@ export default function Login() {
 					<h1>Sign In</h1>
 					<input type="email" placeholder="Email or phone number" />
 					<input type="password" placeholder="Password" />
-					<div className="loginButtton">Sign In</div>
+					<button className="loginButtton">Sign In</button>
 					<span>
 						New to Netflix <b>Sign up now.</b>
 					</span>
